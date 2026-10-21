@@ -2,7 +2,7 @@
 
 ## Model Entitat Relació E/R
 
-````mermaid
+```mermaid
 
 erDiagram
     USER ||--o{ POST : writes
