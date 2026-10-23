@@ -1,4 +1,4 @@
-# Mapa peticions Http (Get/Post)
+# Mapa peticions Http (Get/Post) 
 
 | End-Point  | Method | Descripció |
 | --- | --- | --- |
