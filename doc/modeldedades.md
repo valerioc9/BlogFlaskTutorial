@@ -20,4 +20,3 @@ erDiagram
     }
 ```
 
-Quin tipus de Base de dades utilitza l´aplicació?
