@@ -48,6 +48,9 @@ classDiagram
     class Post {
         +INTEGER id PK
         +INTEGER author_id FK
+        +TIMESTAMP created
+        +TEXT title
+        +TEXT body
     }
 
     auth --> db
