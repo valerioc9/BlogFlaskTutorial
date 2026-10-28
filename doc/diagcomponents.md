@@ -10,6 +10,8 @@ Mètodes:
 - getbd() : Retorna connexió : Mètode que retorna la connexió a BBDD
 - close_db() : Tanca la connexió BBDD
 
+```mermaid
+
 classDiagram
     class auth {
         <<Blueprint>>
@@ -52,3 +54,4 @@ classDiagram
     blog --> db
     User "1" <-- "*" Post : author
     blog ..> Post : utilitza
+```
