@@ -23,7 +23,7 @@ sequenceDiagram
     CLI-->>Usuari: Mostra missatge d'èxit ("Initialized the database.")
 ```
 ## Diagrama d'arrencada de l'aplicació
-```
+```mermaid
 sequenceDiagram
     autonumber
     participant CLI as Flask CLI / Terminal
