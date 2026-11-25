@@ -5,4 +5,5 @@
 - [Comandes Flask](comandesflask.md)
 - [Mapa peticions Http (GET/POST)](maparutesmd.md)
 - [Diagrama de Clases/Components](diagcomponents.md)
-- [Llibreria Blueprint de python] (a.md)
+- [Llibreria Blueprint de python] (blueprint.md)
+- [Test App](test.md)
